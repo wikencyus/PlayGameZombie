@@ -1,5 +1,5 @@
 const maxScore = 10 //
-  let timerCount = 30 //
+  let timerCount = 12 //
   let bullets = 11 //
 
   let timer;
